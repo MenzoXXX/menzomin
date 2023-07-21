@@ -1,0 +1,39 @@
+baseURL: https://menzomin.org/
+languageCode: pl
+title: Menzomin
+theme: papermod
+
+params:
+  env: production
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: "Hej 👋"
+    Content: "Blog o FOSS i serwerach. Jak czegoś nie kumasz, masz pytania: kacper@menzomin.org"
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/MenzoXXX"
+    - name: twitter
+      url: "https://twitter.com/berranzan"
+
+menu:
+  main:
+    - identifier: categories
+      name: Kategorie
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tagi
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archiwum
+      url: /archives/
+      weight: 30
+    - identifier: about
+      name: O mnie
+      url: /about/
+      weight: 40
