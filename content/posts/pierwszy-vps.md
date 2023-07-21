@@ -124,7 +124,7 @@ Zainstalujmy serwer nginx
 Odpowiedz "T" na pytanie czy kontynuować. Po chwili nginx będzie zainstalowany.
 Teraz dwie komendy dzielą nas od postawienia serwera WWW. Uruchomią one *demona nginx*, który będzie nasłuchiwał zapytań i odpowiadał stronami. 
 
-    systemctl update nginx
+    systemctl enable nginx
     systemctl start nginx
 
 Sprawdźmy, czy Twój nginx nasłuchuje.
@@ -153,6 +153,12 @@ I wybierz sobie ładną domenę xd
 Po kilku minutach będziesz mógł przejść na swoją nową stronę i zobaczysz mniej więcej to:
 
 ![Hello World Mikrus](hello-world.png)
+
+Jako ciekawostkę podpowiem Ci, że hostowana strona znajduje się w `/var/www/html` (dla ambitnych :D).
+
+Na dzisiaj to wszystko :)
+
+Tradycyjnie, jeśli czegoś nie kumasz albo maszy pytania, uderzaj: kacper@menzomin.org
 
 ###### Przypisy
 \* - *na przykładzie Mikrusa, w najniższym pakiecie nie uruchomisz Dockera. Nie zaktualizujesz również jądra. VPSy posiadają swoje pewne ograniczenia, które nie wejdą nam w drogę w większości zastosowań.*
