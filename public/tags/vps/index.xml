@@ -14,7 +14,7 @@
       
       <guid>https://menzomin.org/posts/pierwszy-vps/</guid>
       <description>Co to jest VPS? VPS - Virtual Private Server - to twój kawałek serwerowego tortu :) W przeciwieństwie do serwera dedykowanego, czyli maszyny którą masz całą dla siebie, kupując VPSa dostajesz serwer wirtualny. Z niewielkimi wyjątkami* w pełni funkcjonalny serwer hostowany u Twojego hostingodawcy.
-Przypisy * - na przykładzie Mikrusa, w najniższym pakiecie nie uruchomisz Dockera. Nie zaktualizujesz również jądra. VPSy posiadają swoje pewne ograniczenia, które nie wejdą nam w drogę w większości zastosowań.</description>
+Mikrus Ten wpis może i jest kryptoreklamą Mikrusa, ale bardzo polecam tę usługę. Po pierwsze: kosztuje tyle co kilka kebabów rocznie Po drugie: jego support jest state-of-art, zarówno adminów jak i społeczności</description>
     </item>
     
   </channel>

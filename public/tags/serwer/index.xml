@@ -6,16 +6,15 @@
     <description>Recent content in serwer on Menzomin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 20 Jul 2023 23:25:29 +0200</lastBuildDate><atom:link href="https://menzomin.org/tags/serwer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 18:53:46 +0200</lastBuildDate><atom:link href="https://menzomin.org/tags/serwer/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fajne programy konsolowe vol. 1</title>
-      <link>https://menzomin.org/posts/fajne-programy-konsolowe-vol-1/</link>
-      <pubDate>Thu, 20 Jul 2023 23:25:29 +0200</pubDate>
+      <title>Pierwszy VPS i pierwsze kroki</title>
+      <link>https://menzomin.org/posts/pierwszy-vps/</link>
+      <pubDate>Fri, 21 Jul 2023 18:53:46 +0200</pubDate>
       
-      <guid>https://menzomin.org/posts/fajne-programy-konsolowe-vol-1/</guid>
-      <description>Trochę okienek (GNU Midnight Commander) Kupiłeś sobie VPSa, więc masz kompa do którego możesz dostać się z każdego miejsca na świecie z dostępem do internetu? No i super.
-Wreszcie logujesz się do swojego VPSa&amp;hellip; Twoim oczom ukazuje się przepiękny interfejs użytkownika&amp;hellip; Ogarnijmy to trochę. Przydałaby się jakaś namiastka okienek, co? Ręka świerzbi, żeby użyć myszki&amp;hellip; Z pomocą przychodzi GNU Midnight Commander.
-Twoja dystrybucja na pewno go dostarcza. Zakładając, że jesteś Ubuntowy, zrobisz tak:</description>
+      <guid>https://menzomin.org/posts/pierwszy-vps/</guid>
+      <description>Co to jest VPS? VPS - Virtual Private Server - to twój kawałek serwerowego tortu :) W przeciwieństwie do serwera dedykowanego, czyli maszyny którą masz całą dla siebie, kupując VPSa dostajesz serwer wirtualny. Z niewielkimi wyjątkami* w pełni funkcjonalny serwer hostowany u Twojego hostingodawcy.
+Mikrus Ten wpis może i jest kryptoreklamą Mikrusa, ale bardzo polecam tę usługę. Po pierwsze: kosztuje tyle co kilka kebabów rocznie Po drugie: jego support jest state-of-art, zarówno adminów jak i społeczności</description>
     </item>
     
   </channel>
